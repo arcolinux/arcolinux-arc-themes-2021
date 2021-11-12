@@ -1,17 +1,9 @@
-# Arc Theme from Horst3180 adapted to fit ArcoLinux
+# Arc Theme adapted to fit ArcoLinux
 
-Created with arc colora script from 
-
-
-https://github.com/erikdubois/Arc-Theme-Colora
+Created with script from 
 
 
-
-![Screenshots](http://i.imgur.com/VyiTtTO.png)
-
-Installation of themes via AUR.
-
-Select one of the themes and enjoy.
+https://github.com/erikdubois/arcolinux-arc-themes
 
 
 Colours
